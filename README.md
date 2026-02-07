@@ -41,7 +41,7 @@ There is also a German 4-part article with instructions [here](https://dl-nordwe
   - Wouxun UV-9D Mate (CHIRP + APRS)
   - Baofeng UV-5R (CHIRP + APRS)
   - BTECH 6X2 (CHIRP)
-  - Quansheng UV-K5 ([Quansheng Dock](https://github.com/nicsure/QuanshengDock), [Egzumer](https://github.com/egzumer/uv-k5-firmware-custom) or regular)
+  - Quansheng UV-K5 ([Quansheng Dock](https://github.com/nicsure/QuanshengDock), [egzumer](https://github.com/egzumer/uv-k5-firmware-custom), [F4HWN](https://github.com/armel/uv-k5-firmware-custom) or regular)
 
 ![Top side of PCB](doc/images/k1-aioc-photo.jpg?raw=true "Top side of PCB")
 
